@@ -133,14 +133,14 @@ a{
         align-items: center;
         background-color: black;
         position: fixed;
-        left: 10px;
+        left: 0;
         top: 60px;
         width: 100%;
         padding: 20px 0;
         height: calc(100% - 60px);
         overflow-y: auto;
         left: 100%;
-        transition: left 02s;  
+        transition: left 03s;  
     }
     .nav-menu-link:hover,
     .nav-menu-link_active{
