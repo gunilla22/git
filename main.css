@@ -98,8 +98,13 @@ h2{
 }
 
 .iconos{
-    width: 30px;
-    height: 30px;
+    width: 90px;
+    height: 90px;
+    text-align: center;
+    filter: brightness(1.1);
+}
+.redes{
+    background-color: white;
 }
 a{
     text-decoration: none;
